@@ -47,7 +47,7 @@ The user interface is defined in a storyboard file, structured as follows:
 - **Buttons:** Navigate between different sections of the app.
 
 ## **Devpost Link**
-Check out our project on [Devpost: PetPal on Devpost](https://devpost.com/software/petpal)
+Check out our project on [Devpost: PetPal on Devpost](https://devpost.com/software/petpal-o91ulp)
 
 ## **Submitted To**
 - HackNYU 2023
